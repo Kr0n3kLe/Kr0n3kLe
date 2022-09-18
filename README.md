@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Kr0n3kLe
 - 👀 I’m interested in ...learning, development, gaming 
-- 🌱 I’m currently learning ...python, HTML, CSS, javascript 
+- 🌱 I’m currently learning ...python, HTML, CSS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...you know if you know 
 
